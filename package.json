@@ -1,0 +1,8 @@
+{
+  "name": "100mananti",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Profitah/100mananti.git",
+  "author": "이윤아 <qwer120542@gmail.com>",
+  "license": "MIT"
+}
